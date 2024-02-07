@@ -14,10 +14,11 @@ const allowedOrigins = [
     'http://localhost:3000', 
     'http://localhost:3001', 
     'http://localhost:4000',
-    'https://breathe-esg-web.vercel.app',
-    'https://breathe-esg-web.vercel.app/',
-    'https://breathe-esg.netlify.app/',
+    'https://one-percent-club.netlify.app',
+    'https://one-percent-club.netlify.app/',
     'https://1-percent-club.vercel.app/',
+    'https://one-percent-club.vercel.app/',
+    'https://one-percent-club.vercel.app',
 ];
 
 const corsOptions = {
