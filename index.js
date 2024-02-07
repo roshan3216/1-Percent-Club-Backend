@@ -17,6 +17,7 @@ const allowedOrigins = [
     'https://breathe-esg-web.vercel.app',
     'https://breathe-esg-web.vercel.app/',
     'https://breathe-esg.netlify.app/',
+    'https://1-percent-club.vercel.app/',
 ];
 
 const corsOptions = {
